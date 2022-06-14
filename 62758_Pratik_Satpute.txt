@@ -1,5 +1,7 @@
-Pratik Satpute
-62758
+			**** Internal Assesssment ****
+			    
+			  (D4_62758_Pratik_Satpute) 
+						
 ********************************************************************************************
 1. List the directory contents date wise sorted. ( man ls)
 	
@@ -218,7 +220,8 @@ touch)
 	cat demo.txt |tail -3
   *************************************************************************
     x. list line no.3,4 and 5 . (man head and tail)
-
+	
+	cat demo.txt |head -5|tail -3
 ********************************************************************************************	
 
 
