@@ -103,6 +103,10 @@ Pratik Satpute
 
 
   iv. change directory to five ( i.e. cd one/two/three/four/five/ ).
+	
+	cd one/two/three/four/five
+	pwd	
+
   v. write your course name in file named "3.txt" which resides in directory "three" from 
      current directory (i.e. five).also read the same file.
   vi. list the contents of directory "two" from current directory (i.e. five).
