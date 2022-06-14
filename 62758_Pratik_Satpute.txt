@@ -203,6 +203,7 @@ touch)
   *************************************************************************
     vi. list the lines starts with letter "f" (man grep)
 
+	grep "^f" demo.txt
   *************************************************************************
     vii. list the lines ends with "g" (man grep)
 
