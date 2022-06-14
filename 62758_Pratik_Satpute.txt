@@ -140,6 +140,10 @@ Pratik Satpute
 
   *************************************************************************	
   x. remove directory named "five" from current directory (i.e. one)
+	
+	rmdir two/three/four/five
+
+  *************************************************************************	
   xi. remove whole directory named "four" from current directory (i.e. one)
   xii. change to your home directory.
 
