@@ -115,6 +115,9 @@ Pratik Satpute
 	cat ~/one/two/three/3.txt
 	
   vi. list the contents of directory "two" from current directory (i.e. five).
+	
+	ls -l ~/one/two
+	
   vii. remove file named "222.txt" which belongs to directory "two" from current directory 
       (i.e. five)
   viii. now change the directory to "one"
