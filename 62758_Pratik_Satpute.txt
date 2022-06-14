@@ -185,10 +185,13 @@ touch)
 	wc < demo.txt
   *************************************************************************
     ii. list the lines having word "files" (man grep)
-
+	
+	grep "files" demo.txt
   *************************************************************************
     iii. list the lines having word "file" (man grep)
-
+	
+	grep "file" demo.txt
+	grep -w "file" demo.txt
   *************************************************************************
     iv. list the lines which don't have word "files" (man grep)
 
