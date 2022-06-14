@@ -16,3 +16,6 @@ Pratik Satpute
 	ls -S -h -l (Largest file first)
 
 ********************************************************************************************
+3. List directory contents along with their inode no. (man ls)
+	
+	ls -i -l
