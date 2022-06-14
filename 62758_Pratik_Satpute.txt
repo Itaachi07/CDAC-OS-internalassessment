@@ -88,25 +88,28 @@ Pratik Satpute
      directory).
 	
 	ls -l one/two/three/four/five
-	
+
+  ************************************************************************* 		
   ii. write your name in a file named "44.txt" of directory "four" from current directory.
 
 	cat > one/two/three/four/44.txt
 	Pratik Satpute
 	cat one/two/three/four/44.txt
-	
+
+  *************************************************************************	
   iii. remove the file named "555.txt" from directory "five" from current directory.
 
 	ls one/two/three/four/five
 	rm one/two/three/four/five/555.txt
 	ls one/two/three/four/five
 
-
+  *************************************************************************	
   iv. change directory to five ( i.e. cd one/two/three/four/five/ ).
 	
 	cd one/two/three/four/five
 	pwd	
 
+  *************************************************************************	
   v. write your course name in file named "3.txt" which resides in directory "three" from 
      current directory (i.e. five).also read the same file.
 
@@ -114,23 +117,28 @@ Pratik Satpute
 	Course Name: CDAC
 	cat ~/one/two/three/3.txt
 	
+  *************************************************************************	
   vi. list the contents of directory "two" from current directory (i.e. five).
 	
 	ls -l ~/one/two
-	
+
+  *************************************************************************		
   vii. remove file named "222.txt" which belongs to directory "two" from current directory 
       (i.e. five)
 
 	rm ~/one/two/222.txt
 	
+  *************************************************************************	
   viii. now change the directory to "one"
 	
 	cd ~/one
 
+  *************************************************************************	
   ix. remove all files only from directory named "five" from current directory (i.e. one)
 
-	
+	rm two/three/four/five/*
 
+  *************************************************************************	
   x. remove directory named "five" from current directory (i.e. one)
   xi. remove whole directory named "four" from current directory (i.e. one)
   xii. change to your home directory.
