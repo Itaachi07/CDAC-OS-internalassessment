@@ -210,10 +210,12 @@ touch)
 	grep "g$" demo.txt
   *************************************************************************
     viii. list only first two lines.(man head)
-
+	
+	cat demo.txt |head -2
   *************************************************************************
     ix. list only last three lines.(man tail)
-
+	
+	cat demo.txt |tail -3
   *************************************************************************
     x. list line no.3,4 and 5 . (man head and tail)
 
