@@ -96,6 +96,12 @@ Pratik Satpute
 	cat one/two/three/four/44.txt
 	
   iii. remove the file named "555.txt" from directory "five" from current directory.
+
+	ls one/two/three/four/five
+	rm one/two/three/four/five/555.txt
+	ls one/two/three/four/five
+
+
   iv. change directory to five ( i.e. cd one/two/three/four/five/ ).
   v. write your course name in file named "3.txt" which resides in directory "three" from 
      current directory (i.e. five).also read the same file.
