@@ -179,16 +179,39 @@ touch)
    	 files have size.
    	 there are several types of file"
 	
+  *************************************************************************
     i. count the no. of words ,characters and lines from above file.(man wc)
+
+	wc < demo.txt
+  *************************************************************************
     ii. list the lines having word "files" (man grep)
+
+  *************************************************************************
     iii. list the lines having word "file" (man grep)
+
+  *************************************************************************
     iv. list the lines which don't have word "files" (man grep)
+
+  *************************************************************************
     v. list the lines having word "have" along with count. (man grep)
+
+  *************************************************************************
     vi. list the lines starts with letter "f" (man grep)
+
+  *************************************************************************
     vii. list the lines ends with "g" (man grep)
+
+  *************************************************************************
     viii. list only first two lines.(man head)
+
+  *************************************************************************
     ix. list only last three lines.(man tail)
+
+  *************************************************************************
     x. list line no.3,4 and 5 . (man head and tail)
+
+********************************************************************************************	
+
 
 
 	
