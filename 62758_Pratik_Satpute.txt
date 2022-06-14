@@ -120,8 +120,17 @@ Pratik Satpute
 	
   vii. remove file named "222.txt" which belongs to directory "two" from current directory 
       (i.e. five)
+
+	rm ~/one/two/222.txt
+	
   viii. now change the directory to "one"
+	
+	cd ~/one
+
   ix. remove all files only from directory named "five" from current directory (i.e. one)
+
+	
+
   x. remove directory named "five" from current directory (i.e. one)
   xi. remove whole directory named "four" from current directory (i.e. one)
   xii. change to your home directory.
