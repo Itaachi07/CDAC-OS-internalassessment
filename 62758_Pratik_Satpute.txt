@@ -19,3 +19,9 @@ Pratik Satpute
 3. List directory contents along with their inode no. (man ls)
 	
 	ls -i -l
+
+********************************************************************************************
+4. List the contents of sub directory.
+	
+	ls Documents -l
+********************************************************************************************
