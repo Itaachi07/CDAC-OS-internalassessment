@@ -109,6 +109,11 @@ Pratik Satpute
 
   v. write your course name in file named "3.txt" which resides in directory "three" from 
      current directory (i.e. five).also read the same file.
+
+	cat > ~/one/two/three/3.txt
+	Course Name: CDAC
+	cat ~/one/two/three/3.txt
+	
   vi. list the contents of directory "two" from current directory (i.e. five).
   vii. remove file named "222.txt" which belongs to directory "two" from current directory 
       (i.e. five)
