@@ -28,7 +28,7 @@ Pratik Satpute
 5. Create a file , write your surname and name in it and save.
     i. now open the same file and add your address in it and save.
     ii. reopen the same file and check your name and address in it.
-	
+	ls -l 
 	cat > abc.txt
 	Satpute
 	pratik
@@ -39,3 +39,11 @@ Pratik Satpute
 	cat abc.txt
 
 ********************************************************************************************
+6. how to change the time stamp of file (man touch)
+	ls -l Que5.txt
+	touch Que5.txt
+	ls -l Que5.txt
+
+********************************************************************************************
+
+	
