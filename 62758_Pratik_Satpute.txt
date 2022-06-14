@@ -91,7 +91,9 @@ Pratik Satpute
 	
   ii. write your name in a file named "44.txt" of directory "four" from current directory.
 
-	
+	cat > one/two/three/four/44.txt
+	Pratik Satpute
+	cat one/two/three/four/44.txt
 	
   iii. remove the file named "555.txt" from directory "five" from current directory.
   iv. change directory to five ( i.e. cd one/two/three/four/five/ ).
