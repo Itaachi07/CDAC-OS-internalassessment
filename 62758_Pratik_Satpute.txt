@@ -199,6 +199,7 @@ touch)
   *************************************************************************
     v. list the lines having word "have" along with count. (man grep)
 
+	grep -n "have" demo.txt
   *************************************************************************
     vi. list the lines starts with letter "f" (man grep)
 
