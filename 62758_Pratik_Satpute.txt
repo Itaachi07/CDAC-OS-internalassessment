@@ -25,3 +25,17 @@ Pratik Satpute
 	
 	ls Documents -l
 ********************************************************************************************
+5. Create a file , write your surname and name in it and save.
+    i. now open the same file and add your address in it and save.
+    ii. reopen the same file and check your name and address in it.
+	
+	cat > abc.txt
+	Satpute
+	pratik
+
+	cat >> abc.txt
+	Shahupuri, Satara, Maharashtra
+
+	cat abc.txt
+
+********************************************************************************************
