@@ -148,7 +148,19 @@ Pratik Satpute
 
 	rm -R two/three/four
 
+  *************************************************************************	
   xii. change to your home directory.
+	
+	cd
 
+********************************************************************************************
+9. change the time stamp of file named "3.txt" which resides in directory named "three".(man 
+touch)
+ 	
+	ls -l one/two/three/3.txt
+	touch one/two/three/3.txt
+	ls -l one/two/three/3.txt
+
+********************************************************************************************	
 
 	
