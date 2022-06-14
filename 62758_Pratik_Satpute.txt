@@ -145,6 +145,9 @@ Pratik Satpute
 
   *************************************************************************	
   xi. remove whole directory named "four" from current directory (i.e. one)
+
+	rm -R two/three/four
+
   xii. change to your home directory.
 
 
