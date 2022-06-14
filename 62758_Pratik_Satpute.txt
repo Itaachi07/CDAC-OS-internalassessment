@@ -206,7 +206,8 @@ touch)
 	grep "^f" demo.txt
   *************************************************************************
     vii. list the lines ends with "g" (man grep)
-
+	
+	grep "g$" demo.txt
   *************************************************************************
     viii. list only first two lines.(man head)
 
