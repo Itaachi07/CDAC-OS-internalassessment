@@ -3,6 +3,16 @@ Pratik Satpute
 ********************************************************************************************
 1. List the directory contents date wise sorted. ( man ls)
 	
-	ls -lt
+	ls -lt (new to old)
+	ls -t -l (new to old)
+	ls -t -r -l ( old to new)
+      	
+
+********************************************************************************************
+2. List the directory contents size wise sorted.(man ls)
+	
+	ls -laSh (with hidden files)
+	ls -S -h -l -r (Smallest file first)
+	ls -S -h -l (Largest file first)
 
 ********************************************************************************************
