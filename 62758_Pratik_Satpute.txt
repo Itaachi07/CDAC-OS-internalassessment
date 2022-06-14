@@ -194,7 +194,8 @@ touch)
 	grep -w "file" demo.txt
   *************************************************************************
     iv. list the lines which don't have word "files" (man grep)
-
+	
+	grep -v "files" demo.txt
   *************************************************************************
     v. list the lines having word "have" along with count. (man grep)
 
